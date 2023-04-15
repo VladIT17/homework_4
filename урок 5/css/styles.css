@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body{
+    font-family: 'Playfair Display';
+    font-weight: 400;
+}
+li {
+    list-style: none;
+}
+a{
+text-decoration: none;
+color:#7D7D7D;
+}
+
+a:hover{
+    color: #03A9F4;
+}
+
+img {
+    width: 420px;
+    height: 280px;
+}
+.LIFESTYLE_PHOTODAIRY{
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  color: #B4AD9E;;
+}
+.paragraph {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.main_text{
+    width: 420px;
+    height: 76px;
+  font-weight: 400;
+  font-size: 14px; 
+  line-height: 19px;   
+  color: #626262;
+}
